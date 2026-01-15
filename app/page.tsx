@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main style={{ padding: "4rem", maxWidth: "720px", margin: "0 auto" }}>
-      <h1>Stories Lab</h1>
+      <h1>Athar Archive</h1>
 
       <p>
         This is an experiment in preserving and structuring meaningful human
